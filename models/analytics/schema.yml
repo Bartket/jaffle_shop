@@ -1,0 +1,7 @@
+version: 2
+
+models:
+  - name: total_completed_orders
+    description: This table has a total number of completed orders
+  - name: total_completed_amount
+    description: This table has a total amount of completed orders
